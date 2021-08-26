@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Javascript and Python
 
 
-![x6i's GitHub stats](https://github-readme-stats.vercel.app/api?username=x6i&show_icons=true&theme=gradient)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x6i&layout=compact&theme=gradient)](https://github.com/x6i/x6i)
+![x6i's GitHub stats](https://github-readme-stats.vercel.app/api?username=x6i&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x6i&layout=compact&theme=cobalt)](https://github.com/x6i/x6i)
 
                
 <!---
