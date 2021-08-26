@@ -4,6 +4,8 @@
 
 
 [![Coders's GitHub stats](https://github-readme-stats.vercel.app/api?username=x6i)](https://github.com/x61/x61)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x6i&layout=compact)](https://github.com/x6i/x6i)
+
                
 <!---
 x6i/x6i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
