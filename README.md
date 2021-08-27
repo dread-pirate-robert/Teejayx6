@@ -1,13 +1,8 @@
-- 👋 Hi, I’m @Coder5010
-- 👀 I’m interested in making Websites
-- 🌱 I’m currently learning Javascript and Python
+<h1 align="center">Hi 👋, I'm Coder5010</h1>
+<h3 align="center">A Coder From The Us</h3>
+
+- 🤝 I’m looking for help with **Javascript**
 
 
-![Coder5010's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder5010&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder5010&layout=compact&theme=cobalt)](https://github.com/Coder5010/Coder5010)
-
-               
-<!---
-Coder5010/Coder5010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
