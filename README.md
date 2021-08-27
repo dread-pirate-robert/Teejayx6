@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [c0d3r.me](https://github.com/Coder5010/c0d3r.me)
 
-- 🌱 I’m currently learning **Javscrip, Python**
+- 🌱 I’m currently learning **Javscript, Python**
 
 - 🤝 I’m looking for help with **Javascript**
 
