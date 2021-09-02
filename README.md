@@ -1,33 +1,20 @@
-# Ohayo, I'm <a href="https://c0d3r.me" target="_blank">ilymonkey</a> | ![Profile views](https://gpvc.arturio.dev/unassignable)
+<h1 align="center">Hi 👋, I'm unassignable</h1>
+<h3 align="center">A coder from Texas</h3>
 
-<a href="https://discord.com/users/366106745396920322" target="_blank"><img align="left" alt="F | Discord Profile" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />
-<a href="https://keybase.com/fumando" target="_blank"><img align="left" alt="Ignacio | Keybase" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/keybase.svg" />
-<a href="https://open.spotify.com/playlist/3FmrgRF8OxtCHUmm9dRzRu" target="_blank"><img align="left" alt="Ignacio | Spotify Playlist" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/spotify.svg" />
-<a href="https://last.fm/user/webhook" target="_blank"><img align="left" alt="Ignacio | last.fm" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/lastdotfm.svg" />
-<a href="https://tixte.gifts/" target="_blank"><img align="left" alt="Ignacio | Website" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vercel.svg" />
-<a href="https://myanimelist.net/profile/_dj" target="_blank"><img align="left" alt="Ignacio | MyAnimeList" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/myanimelist.svg" />
-</br> </br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=unassignable&label=Profile%20views&color=0e75b6&style=flat" alt="unassignable" /> </p>
 
-### I work using ~
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://www.python.org" target="_blank">
-<img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/>
-</a>
-</a> <a href="https://git-scm.com/" target="_blank">
-<img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-</a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</a> <a href="https://www.photoshop.com/en" target="_blank">
-<img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unassignable" alt="unassignable" /></a> </p>
 
-</br> </br>
+- 🔭 I’m currently working on [C0d3r.me](https://c0d3r.me/)
 
-### Contact me ~
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/366106745396920322)](https://discord.com/users/366106745396920322)
-</br> </br>
+- 🌱 I’m currently learning **Javascript, Python, HTML, CSS**
 
-### Stats ~ 
-[![unassignable's github
-stats](https://github-readme-stats.vercel.app/api?username=unassignable&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats) 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unassignable&show_icons=true&theme=dark&locale=en&layout=compact" alt="unassignable" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unassignable&show_icons=true&locale=en" alt="unassignable" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unassignable&theme=dark" alt="unassignable" /></p>
