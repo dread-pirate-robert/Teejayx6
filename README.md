@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm unassignable</h1>
 <h3 align="center">A coder from Texas</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unassignable&label=Profile%20views&color=0e75b6&style=flat" alt="unassignable" /> </p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%235B4889&title_bg=%23555555&icon=github.svg&icon_color=%23000000&title=Veiws+&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unassignable" alt="unassignable" /></a> </p>
 
