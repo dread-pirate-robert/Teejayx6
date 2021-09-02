@@ -1,6 +1,6 @@
 # Ohayo, I'm <a href="https://c0d3r.me" target="_blank">ilymonkey</a> | ![Profile views](https://gpvc.arturio.dev/unassignable)
 
-<a href="https://discord.com/users/366106745396920322" target="_blank"><img align="left" alt="Ignacio | Discord Profile" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />
+<a href="https://discord.com/users/366106745396920322" target="_blank"><img align="left" alt="F | Discord Profile" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />
 <a href="https://keybase.com/fumando" target="_blank"><img align="left" alt="Ignacio | Keybase" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/keybase.svg" />
 <a href="https://open.spotify.com/playlist/3FmrgRF8OxtCHUmm9dRzRu" target="_blank"><img align="left" alt="Ignacio | Spotify Playlist" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/spotify.svg" />
 <a href="https://last.fm/user/webhook" target="_blank"><img align="left" alt="Ignacio | last.fm" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/lastdotfm.svg" />
@@ -25,7 +25,7 @@
 </br> </br>
 
 ### Contact me ~
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/881376072015417375)](https://discord.com/users/881376072015417375)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/366106745396920322)](https://discord.com/users/366106745396920322)
 </br> </br>
 
 ### Stats ~ 
