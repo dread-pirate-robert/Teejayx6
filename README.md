@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm unassignable</h1>
 <h3 align="center">A coder from Texas</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/unassignable/count.svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unassignable" alt="unassignable" /></a> </p>
 
