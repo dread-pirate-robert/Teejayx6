@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm unassignable</h1>
 <h3 align="center">A coder from Texas</h3>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%235B4889&title_bg=%23555555&icon=github.svg&icon_color=%23000000&title=Veiws+&edge_flat=false)](https://hits.seeyoufarm.com)
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unassignable" alt="unassignable" /></a> </p>
 
