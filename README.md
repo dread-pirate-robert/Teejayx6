@@ -3,8 +3,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/unassignable/count.svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unassignable" alt="unassignable" /></a> </p>
-
 - 🔭 I’m currently working on [C0d3r.me](https://c0d3r.me/)
 
 - 🌱 I’m currently learning **Javascript, Python, HTML, CSS**
