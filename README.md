@@ -1,14 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm unassignable</h1>
 <h3 align="center">A coder from Texas</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/unassignable/count.svg)
-
-<h3 align="center">- 🔭 I’m currently working on 6ix</h3>
-<p align="center">
- 
-<h3 align="center">- 🌱 I’m currently learning Javascript, Python, HTML, CSS</h3>
-<p align="center">
-
 
 
 
