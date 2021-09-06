@@ -6,7 +6,7 @@
 <h3 align="center">- 🔭 I’m currently working on 6ix</h3>
 <p align="center">
  
-<h3 align="center">- 🌱 I’m currently learning **Javascript, Python, HTML, CSS**</h3>
+<h3 align="center">- 🌱 I’m currently learning Javascript, Python, HTML, CSS</h3>
 <p align="center">
 
 
