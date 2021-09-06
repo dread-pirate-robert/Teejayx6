@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img src="https://lanyard-profile-readme.vercel.app/api/366106745396920322" width="35px"></h1>
-
+https://lanyard-profile-readme.vercel.app/api/366106745396920322
 
 
 
