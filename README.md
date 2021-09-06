@@ -3,9 +3,13 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/unassignable/count.svg)
 
-- 🔭 I’m currently working on [C0d3r.me](https://c0d3r.me/)
+<h3 align="center">- 🔭 I’m currently working on [C0d3r.me](https://c0d3r.me/)</h3>
+<p align="center">
+ 
+<h3 align="center">- 🌱 I’m currently learning **Javascript, Python, HTML, CSS**</h3>
+<p align="center">
 
-- 🌱 I’m currently learning **Javascript, Python, HTML, CSS**
+
 
 
 <h3 align="center">Languages and Tools</h3>
