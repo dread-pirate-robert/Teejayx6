@@ -1,5 +1,6 @@
-https://lanyard-profile-readme.vercel.app/api/366106745396920322
-
+<p align="center">
+  <img src="https://lanyard-profile-readme.vercel.app/api/366106745396920322" />
+</p>
 
 
 <h3 align="center">Languages and Tools</h3>
