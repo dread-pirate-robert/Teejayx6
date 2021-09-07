@@ -2,7 +2,6 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/679859331600089098" />
 </p>
 
-
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
 <a href="https://www.blender.org" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blender.svg" alt="" height="30" width="40" /></a>
