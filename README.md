@@ -18,7 +18,6 @@
  <a href="https://instagram.com/ily.monkey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 
 
-<script src="https://gist.github.com/Teejayx6/7a28000979dd220487c1710ac6702285.js"></script>
 
 
 
