@@ -11,6 +11,8 @@
 <a href="https://www.mongodb.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="" height="30" width="40" /></a>
  <a href="https://www.python.org" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="" height="30" width="40" /></a>
 
+  https://img.shields.io/badge/Javascript-007ACC?style=for-the-badge&logo=javascript&logoColor=white
+  
 <h3 align="center">Socials</h3>
 <p align="center">
  <a href="https://discord.com/user/366106745396920322" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
