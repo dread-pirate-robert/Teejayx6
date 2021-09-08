@@ -16,7 +16,7 @@
   
 <h3 align="center">Socials</h3>
 <p align="center">
- <a href="https://discord.com/user/366106745396920322" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
+  <a href="https://discord.com/user/366106745396920322" target="_blank" rel="nofollow"><img alt="Ceylan's Linkedin" src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" /></a>
  <a href="https://github.com/Teejayx6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
  <a href="https://instagram.com/ily.monkey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 
